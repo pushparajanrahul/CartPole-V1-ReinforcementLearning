@@ -29,7 +29,7 @@ In CartPole-v1, the environment consists of:
 
 
 
-#About the Jupiter Notebook source code
+# About the Jupiter Notebook source code
 
 This repository contains an example of using reinforcement learning (RL) to solve the CartPole-v1 environment from OpenAI Gym.
 
